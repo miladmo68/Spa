@@ -1,0 +1,26 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "targets": {
+    "main": {
+      "outputFormat": "esmodule"
+    }
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "scripts": {
+    "start": "parcel index.html --out-dir docs",
+    "build": "parcel build index.html --out-dir docs --public-url ./"
+  },
+  "author": "Milad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
