@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Spa/static/css/main.c75d80d2.css",
+    "main.js": "/Spa/static/js/main.4d0881d1.js",
+    "static/js/787.f055211e.chunk.js": "/Spa/static/js/787.f055211e.chunk.js",
+    "static/media/banner.jpg": "/Spa/static/media/banner.868f49d4204ae7c3f1f8.jpg",
+    "static/media/Pedi.jpg": "/Spa/static/media/Pedi.00e9a614d100186489fe.jpg",
+    "static/media/Mani.jpg": "/Spa/static/media/Mani.d33f763e312d5c0a8e7c.jpg",
+    "static/media/Facial.jpg": "/Spa/static/media/Facial.513a5c43aafea5eeb4b0.jpg",
+    "static/media/Massage.jpg": "/Spa/static/media/Massage.0c5f690f19a753de482d.jpg",
+    "static/media/logo.png": "/Spa/static/media/logo.856438cdc687f7b78447.png",
+    "index.html": "/Spa/index.html",
+    "main.c75d80d2.css.map": "/Spa/static/css/main.c75d80d2.css.map",
+    "main.4d0881d1.js.map": "/Spa/static/js/main.4d0881d1.js.map",
+    "787.f055211e.chunk.js.map": "/Spa/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c75d80d2.css",
+    "static/js/main.4d0881d1.js"
+  ]
+}
